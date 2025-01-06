@@ -25,7 +25,7 @@ This comprehensive 3-month study program on Generative AI, designed for a new gr
     Practical exercises during this phase include implementing basic text generation using pre-trained models and experimenting with fine-tuning small open-source LLMs on specific tasks using Python. These hands-on activities help solidify theoretical concepts and prepare students for more advanced applications in the later stages of the program. <a href="https://www.coursera.org/specializations/introduction-to-generative-ai">Introduction to Generative AI Learning</a>
   </p>
   <p>
-    The foundational phase also introduces ethical considerations in AI development, emphasizing the importance of responsible AI practices from the outset. Students explore topics such as bias in training data, the potential societal impacts of generative AI, and the need for transparency and accountability in AI systems5.
+    The foundational phase also introduces ethical considerations in AI development, emphasizing the importance of responsible AI practices from the outset. Students explore topics such as bias in training data, the potential societal impacts of generative AI, and the need for transparency and accountability in AI systems.
   </p>
   <p>
     By the end of the first month, students will have gained a comprehensive understanding of the core principles underlying Generative AI, setting the stage for more advanced topics and practical applications in the subsequent phases of the program.
@@ -61,5 +61,42 @@ This comprehensive 3-month study program on Generative AI, designed for a new gr
   </p>
   <p>
     By the end of this phase, students will have gained a comprehensive understanding of advanced Generative AI concepts and practical experience with key frameworks, positioning them to tackle complex AI projects and contribute effectively to the field.
+  </p>
+</details>
+
+<details>
+  <summary><h2>Practical Applications with Python</h2></summary>
+  
+  <p><a href="/uri"><img src="https://pplx-res.cloudinary.com/image/fetch/s--Wy-10vSt--/t_thumbnail/https://cdn.prod.website-files.com/651e8862627bb76b91f2a4e6/65e59fcb356c54c81e78ee16_Six%2520Key%2520Themes%2520Shaping%2520the%2520Future%2520of%2520Generative%2520AI%2520%2528GenAI%2529-03.jpg" alt="Python Gen AI applications" /></a></p>
+  
+  <p>
+  The practical applications phase of the Generative AI study program focuses on hands-on implementation using Python, bridging the gap between theoretical knowledge and real-world application. This section emphasizes project-based learning, allowing students to apply their understanding of Generative AI concepts in concrete, industry-relevant scenarios. <a href="https://www.coursera.org/learn/generative-ai-with-llms">Generative AI with Large Language Models</a>
+  </p>
+  <p>
+  Python serves as the primary programming language for all practical exercises, chosen for its versatility and extensive ecosystem of AI and machine learning libraries. Students begin by setting up their development environment, including installing necessary libraries such as TensorFlow, PyTorch, and the Hugging Face Transformers library. <a href="https://www.ilovephd.com/100-generative-ai-project-ideas/">150+ Innovative Generative AI Project Ideas: Transforming Industries and Advancing Technology</a>
+  </p>
+  <p>
+  One of the first practical projects involves building a basic text generation model using recurrent neural networks (RNNs) or transformers. Students learn to preprocess text data, train the model, and generate coherent text passages. This exercise reinforces understanding of sequence modeling and introduces key concepts in natural language processing (NLP).
+  </p>
+  <p>
+  As the program progresses, students tackle more complex projects. A significant exercise involves implementing a Retrieval-Augmented Generation (RAG) system using Python. This project combines the power of large language models with information retrieval techniques. Students use Milvus as the vector database for efficient similarity search, integrating it with a pre-trained language model to enhance response generation.
+  </p>
+  <p>
+  Another practical application focuses on fine-tuning a pre-trained language model on a specific domain or task. Students work with models like BERT or GPT, using Python libraries to adapt these models to specialized use cases such as sentiment analysis or question-answering systems.
+  </p>
+  <p>
+  The curriculum includes a project on building a generative AI-powered chatbot. Students use frameworks like Langchain to create an interactive conversational agent, implementing features such as context management and integration with external APIs.
+  </p>
+  <p>
+  A creative project in the program involves developing a text-to-image generation system using models like DALL-E or Stable Diffusion. Students learn to use Python to interact with these models, process user prompts, and generate corresponding images.
+  </p>
+  <p>
+  Throughout these projects, students gain practical experience with version control using Git, collaborative coding practices, and best practices for AI model deployment. They also learn to use Python for data preprocessing, model evaluation, and result visualization, essential skills for any AI practitioner.
+  </p>
+  <p>
+  The program emphasizes the importance of ethical AI development in practical applications. Students implement techniques for bias detection and mitigation in their models, ensuring responsible AI practices are integrated into their projects.
+  </p>
+  <p>
+  By the end of this phase, students will have a portfolio of Python-based Generative AI projects, demonstrating their ability to apply theoretical concepts to practical, real-world problems. This hands-on experience not only solidifies their understanding of Generative AI but also prepares them for the challenges they may face in professional AI development roles.
   </p>
 </details>
